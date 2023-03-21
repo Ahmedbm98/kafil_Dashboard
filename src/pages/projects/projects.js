@@ -15,10 +15,10 @@ export default function Projects() {
       <th >Delete</th>
     </tr>
   </thead>
-  <tbody>
-     <Card NameProject="عمل موشن جرافيك" NamePerson="Sami Samir" Time="4h" budget="$25 - $50"/>   
-     <Card NameProject="عمل موشن جرافيك" NamePerson="Sami Samir" Time="4h" budget="$25 - $50"/>   
-     <Card NameProject="عمل موشن جرافيك" NamePerson="Sami Samir" Time="4h" budget="$25 - $50"/>   
+    <tbody>
+     <Card hash="1" NameProject="عمل موشن جرافيك" NamePerson="Sami Samir" Time="3" budget="$25 - $50"/>   
+     <Card hash="2" NameProject="نحتاج الي مطور ومكود بلوجر " NamePerson="Imen Amri" Time="5" budget="$25 - $50"/>   
+     <Card hash="3" NameProject=" مطلوب موقع الكتروني يكون ترتية جيد" NamePerson="Ahmed Hesham" Time="4" budget="$250 - $500"/>   
      </tbody>
      </table>
     </>
